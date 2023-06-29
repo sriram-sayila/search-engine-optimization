@@ -1,0 +1,125 @@
+img {
+    border-radius: 15px;
+    /* padding-right:30px; */
+}
+
+td {
+    /* vertical-align: baseline; */
+}
+.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-webResult.gsc-result > table > tbody > tr:nth-child() > td:nth-child(2) {
+    vertical-align: initial;
+}
+.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-webResult.gsc-result > table > tbody > tr:nth-child() > td:nth-child(2) > span:nth-child(3) {
+    top: 11px;
+    position: relative;
+}
+
+.data-table a {
+    top: 115px;
+    position: relative;
+}
+ 
+.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-webResult.gsc-result > table > tbody > tr > td:nth-child(2) > span:nth-child(6) {
+    position: relative;
+    top: 115px;
+    left: 13vw;
+}
+#___gcse_0 > div > div > div > div.gsc-wrapper > div.gsc-resultsbox-visible > div > div > div.gsc-webResult.gsc-result > table > tbody > tr > td:nth-child(2) {
+    vertical-align: baseline;
+}
+
+.gsc-adBlock {
+    display: none !important;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    padding: 10px;
+    width: auto;
+    left: 30%;
+    /* margin-left: -150px; */
+    top: 0%;
+    height: 100vw;
+    background-color: black;
+    /* border: 3px solid #F04A49; */
+    color:#ffffff;
+    z-index: 999;
+  }
+
+  .popup a {
+    top: 0px;
+    position: relative;
+  }
+  
+  #popup:after {
+    position: fixed;
+    content: "";
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    /* /background: rgba(0,0,0,0.5); */
+    z-index: -2;
+  }
+  
+  #popup:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    /* background: #FFF; */
+    z-index: -1;
+  }
+
+  .gsc-above-wrapper-area {
+    display: none !important;
+  }
+  
+#insideDiv img{
+    width: 500px;
+}
+#insideDiv{
+    margin-top:15%
+}
+
+.close {
+    width: 60px;
+    height: 27px;
+    border-radius: 20px;
+    border: 0px solid black;
+    background-color: #5D6067;
+    color: white;
+    cursor: pointer;
+}
+
+.visit {
+    cursor: pointer;
+    width: 60px;
+    height: 27px;
+    border-radius: 20px;
+    border: 0px solid black;
+    background-color: #2A8CFF;
+    color: white;
+}
+  
+.name-views{
+    top: 10px;
+    position: relative;
+}
+
+.views-align {
+    padding-left: 120px;
+    font-weight: bold;
+}
+.butt-views{
+    display: flex;
+    justify-content: space-between;
+    top: 6vw;
+    position: relative;
+}
+body{
+    text-align: -webkit-center;
+}
